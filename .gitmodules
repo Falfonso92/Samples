@@ -1,0 +1,3 @@
+[submodule "react-states"]
+	path = react-states
+	url = https://github.com/Falfonso92/react-states.git
